@@ -1,0 +1,29 @@
+{
+    "header": ["col1", "col2", "col3", "col4"],
+    "data": {
+        "row1": {
+            "col1": "data11",
+            "col2": "data12",
+            "col3": "data13",
+            "col4": "data14"
+        },
+        "row2": {
+            "col1": "data21",
+            "col2": "data22",
+            "col3": "data23",
+            "col4": "data24"
+        },
+        "row3": {
+            "col1": "data31",
+            "col2": "data32",
+            "col3": "data33",
+            "col4": "data34"
+        },
+        "row4": {
+            "col1": "data41",
+            "col2": "data42",
+            "col3": "data43",
+            "col4": "data44"
+        }
+    }
+}
